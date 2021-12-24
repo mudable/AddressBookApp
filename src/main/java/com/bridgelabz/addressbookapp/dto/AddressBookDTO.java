@@ -1,20 +1,20 @@
 package com.bridgelabz.addressbookapp.dto;
 
 public class AddressBookDTO {
-	public String city;
+	
 	public String state;
-	public long pinCode;
+	public String city;
 
-	public AddressBookDTO(String city, String state, long pinCode) {
+	public AddressBookDTO(String state, String city) {
 		super();
-		this.city = city;
+		
 		this.state = state;
-		this.pinCode = pinCode;
+		this.city = city;
 	}
 
 	@Override
 	public String toString() {
-		return "AddressBookDTO [city=" + city + ", state=" + state + ", pinCode=" + pinCode + "]";
+		return "AddressBookDTO [state=" + state + ", city=" + city + "]";
 	}
 
 }
