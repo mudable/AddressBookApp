@@ -3,6 +3,8 @@ package com.bridgelabz.addressbookapp.service;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Service;
+
+import com.bridgelabz.addressbookapp.ExceptionHandler.AddressBookException;
 import com.bridgelabz.addressbookapp.dto.AddressBookDTO;
 import com.bridgelabz.addressbookapp.model.AddressBookData;
 
@@ -39,6 +41,7 @@ class AddressBookService implements IAddressBookService {
 
 	@Override
 	public AddressBookData getAddressByPinCode(int pinCode) {
-		return addressBooklist.get(pinCode - 1);
+		return addressBooklist.stream().filter(AddressBookData -> AddressBookData.getPinCode() == pinCode).findFirst()
+				.orElseThrow(() -> new AddressBookException("Contact not found"));
 	}
 }
