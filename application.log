@@ -1,0 +1,30 @@
+2021-12-27 20:28:09.097  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Starting Day5AddressBookAppApplication using Java 17.0.1 on HP with PID 8120 (G:\Day5_AddressBookApp\target\classes started by HP WORLD in G:\Day5_AddressBookApp)
+2021-12-27 20:28:09.108 DEBUG 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Running with Spring Boot v2.6.2, Spring v5.3.14
+2021-12-27 20:28:09.109  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : No active profile set, falling back to default profiles: default
+2021-12-27 20:28:20.672  WARN 8120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 20:28:22.892  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Started Day5AddressBookAppApplication in 15.374 seconds (JVM running for 20.645)
+2021-12-27 20:28:22.911  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : AddressBookApp  started
+2021-12-27 20:36:15.741  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Starting Day5AddressBookAppApplication using Java 17.0.1 on HP with PID 8120 (G:\Day5_AddressBookApp\target\classes started by HP WORLD in G:\Day5_AddressBookApp)
+2021-12-27 20:36:15.745 DEBUG 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Running with Spring Boot v2.6.2, Spring v5.3.14
+2021-12-27 20:36:15.747  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : No active profile set, falling back to default profiles: default
+2021-12-27 20:36:19.199  WARN 8120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 20:36:20.605  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Started Day5AddressBookAppApplication in 5.09 seconds (JVM running for 498.359)
+2021-12-27 20:36:20.618  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : AddressBookApp  started
+2021-12-27 20:37:50.164  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Starting Day5AddressBookAppApplication using Java 17.0.1 on HP with PID 8120 (G:\Day5_AddressBookApp\target\classes started by HP WORLD in G:\Day5_AddressBookApp)
+2021-12-27 20:37:50.165 DEBUG 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Running with Spring Boot v2.6.2, Spring v5.3.14
+2021-12-27 20:37:50.169  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : No active profile set, falling back to default profiles: default
+2021-12-27 20:37:52.724  WARN 8120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 20:37:53.720  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Started Day5AddressBookAppApplication in 3.751 seconds (JVM running for 591.473)
+2021-12-27 20:37:53.726  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : AddressBookApp  started
+2021-12-27 20:38:39.889  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Starting Day5AddressBookAppApplication using Java 17.0.1 on HP with PID 8120 (G:\Day5_AddressBookApp\target\classes started by HP WORLD in G:\Day5_AddressBookApp)
+2021-12-27 20:38:39.891 DEBUG 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Running with Spring Boot v2.6.2, Spring v5.3.14
+2021-12-27 20:38:39.891  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : No active profile set, falling back to default profiles: default
+2021-12-27 20:38:41.736  WARN 8120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 20:38:42.498  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Started Day5AddressBookAppApplication in 2.791 seconds (JVM running for 640.25)
+2021-12-27 20:38:42.505  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : AddressBookApp  started
+2021-12-27 20:40:26.897  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Starting Day5AddressBookAppApplication using Java 17.0.1 on HP with PID 8120 (G:\Day5_AddressBookApp\target\classes started by HP WORLD in G:\Day5_AddressBookApp)
+2021-12-27 20:40:26.898 DEBUG 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Running with Spring Boot v2.6.2, Spring v5.3.14
+2021-12-27 20:40:26.899  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : No active profile set, falling back to default profiles: default
+2021-12-27 20:40:29.337  WARN 8120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 20:40:30.055  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : Started Day5AddressBookAppApplication in 3.409 seconds (JVM running for 747.808)
+2021-12-27 20:40:30.065  INFO 8120 --- [restartedMain] c.b.a.Day5AddressBookAppApplication      : AddressBookApp  started
